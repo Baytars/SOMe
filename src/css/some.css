@@ -1,0 +1,25 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#header {
+    text-align: center;
+}
+
+#frame {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 0px 20px;
+}
+
+#msg {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+#control {
+    text-align: right;
+}
