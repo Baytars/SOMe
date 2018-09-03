@@ -29,6 +29,12 @@
             "full": "tubercle bacillus",
             "cn": "肺结核",
             "detail": "由结核杆菌感染引起的慢性传染病。"
+        },
+        {
+            "en": "BAC",
+            "full": "bronchioloalveolar carcinoma",
+            "cn": "细支气管肺泡癌",
+            "detail": "一种异源性肿瘤，可起源于细支气管Clara细胞、肺泡Ⅱ型上皮细胞及化生的黏液细胞。"
         }
     ],
     "tip": [],
