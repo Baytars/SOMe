@@ -35,6 +35,12 @@
             "full": "bronchioloalveolar carcinoma",
             "cn": "细支气管肺泡癌",
             "detail": "一种异源性肿瘤，可起源于细支气管Clara细胞、肺泡Ⅱ型上皮细胞及化生的黏液细胞。"
+        },
+        {
+            "en": "CIN",
+            "full": "cervical intraepithelial neoplasia",
+            "cn": "宫颈上皮内瘤变",
+            "detail": "宫颈癌前病变，由于人乳头瘤病毒（HPV）持续感染所致。是一组疾病的统称，它包括宫颈不典型增生及宫颈原位癌。"
         }
     ],
     "tip": [],
