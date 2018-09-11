@@ -53,6 +53,12 @@
             "full": "tolulized red unheated serum test",
             "cn": "甲苯胺红不需加热血清试验",
             "detail": "一种非梅毒螺旋体抗原血清试验，主要用于梅毒的筛选和疗效观察。"
+        },
+        {
+            "en": "HER2",
+            "full": "human epidermal growth factor receptor-2",
+            "cn": "人类表皮生长因子受体2",
+            "detail": "重要的乳腺癌预后判断因子。目前已有针对该基因过度表达的药物——赫赛汀（Herceptin）。"
         }
     ],
     "tip": [],
